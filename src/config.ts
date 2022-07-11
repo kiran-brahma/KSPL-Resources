@@ -1,6 +1,6 @@
 export const SITE = {
 	title: 'Knighthood',
-	description: 'Understand all aspects of Employee Management',
+	description: 'Understand all aspects of Employee Management, Payroll, Statutory Compliances and Taxes',
 	defaultLanguage: 'en_US',
 };
 

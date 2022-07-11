@@ -22,17 +22,17 @@ The various Laws Applicable within India across different sectors can be categor
 
 The Key laws one needs to be aware within India are:
 
-1. [Minimum Wages as per Location and Role](/en/Min-Wages) 
+1. [Minimum Wages as per Location and Role](/docs/Min-Wages) 
 
-2. [Employee Provident Fund](/en/EPF)
+2. [Employee Provident Fund](/docs/EPF)
 
-3. [Employee State Insurance](/en/ESI)
+3. [Employee State Insurance](/docs/ESI)
 
-4. [Employee Yearly Bonus](/en/Bonus)
+4. [Employee Yearly Bonus](/docs/Bonus)
 
-5. [Employee Gratuity](/em/Gratuity)
+5. [Employee Gratuity](/docs/Gratuity)
 
-6. [Professional Tax](/en/PT)
+6. [Professional Tax](/docs/PT)
 
-7. [Labor Welfare Fund](/en/LWF)
+7. [Labor Welfare Fund](/docs/LWF)
 
