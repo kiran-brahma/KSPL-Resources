@@ -1,6 +1,6 @@
 ---
 title: Employee Provident Fund
-description: Understand abput Empployee Provident Fund and how its caculated
+description: Understand about Empployee Provident Fund and how its caculated
 layout: ../../layouts/MainLayout.astro
 ---
 

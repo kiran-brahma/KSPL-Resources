@@ -1,37 +1,53 @@
 ---
-title: Page 4
-description: Lorem ipsum dolor sit amet - 4
+title: Labour Welfare Fund
+description: Understand about applicability of Labour Welfare Fund
 layout: ../../layouts/MainLayout.astro
 ---
 
-This is a fully-featured page, written in Markdown!
+Labour welfare fund is a statutory contribution managed by individual state authorities. The state labour welfare board determines the amount and frequency of the contribution. The contribution and periodicity of remittance differs with every state. 
 
-## Section A
+### Applicability 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+The government has introduced the Labour Welfare Fund Act. This act has been implemented only in 16 states out of 37 states including union territories.
 
-## Section B
+### Benefits 
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+The Labour Welfare Fund (LWF) is managed by the Labour Board which provides a number of welfare schemes for workers. The schemes provide support in three broad areas as follows.
 
-## Section C
+* **Improving Standard of Living**
+    * Providing nutritious food, educational facilities, and scholarships to the children of employees
+    * Medical facilities to the private and public sector workers and their families
+    * Housing facilities at concessional schemes and rates
+    
+* **Offering Better Work Conditions**
+    * Furnishing facilities for workers and employees such as commuting to work (transport), reading rooms, libraries, vocational training programs, excursions and tours, recreational facilities at the workplace, etc.
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+* **Providing Social Security**
+    * Arranging medical treatments, schemes for certain industries and subsidiary occupations for women, unemployed persons, etc.
 
-# Markdown example
+The amount of fund, rate, and periodicity of contribution is decided by the respective State Labour Welfare Board. The contribution may be made every month or once in six months (half-yearly) or once in a year (annually) as per the prescribed quantum and remitted to appropriate Labor Welfare Fund Board in prescribed Form before the due date specified under the Act.
 
-This is a fully-featured page, written in Markdown!
+Currently, this Act is enacted and applicable in the States of Andhra Pradesh, Chandigarh, Chhattisgarh, Delhi, Goa, Gujarat, Haryana, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Odisha, Punjab, Tamil Nadu, Telangana & West Bengal.
 
-## Section A
+### Charges
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Charges and payment frequency Applicable across state vary based on local regulation. You can see the details in the below table
 
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+| **STATE**          | **AMOUNT PAYABLE** | **PAYMENT FREQUENCY** |
+|:------------------:|:------------------:|:----------------------:|
+| **ANDHRA PRADESH** | 100                | YEARLY                 |
+| **CHANDIGARH**     | 25                 | MONTHLY                |
+| **CHHATTISGARH**   | 120                | HALF YEARLY            |
+| **DELHI**          | 3                  | HALF YEARLY            |
+| **GOA**            | 240                | HALF YEARLY            |
+| **GUJARAT**        | 18                 | HALF YEARLY            |
+| **HARYANA**        | 75                 | MONTHLY                |
+| **KARNATAKA**      | 60                 | YEARLY                 |
+| **KERALA**         | 40                 | MONTHLY                |
+| **MADHYA PRADESH** | 40                 | HALF YEARLY            |
+| **MAHARASHTRA**    | 48                 | HALF YEARLY            |
+| **ODISHA**         | 30                 | HALF YEARLY            |
+| **PUNJAB**         | 25                 | MONTHLY                |
+| **TAMIL NADU**     | 30                 | YEARLY                 |
+| **TELANGANA**      | 7                  | YEARLY                 |
+| **WEST BENGAL**    | 18                 | HALF YEARLY            |

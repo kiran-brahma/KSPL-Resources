@@ -1,37 +1,51 @@
 ---
-title: Page 4
-description: Lorem ipsum dolor sit amet - 4
+title: Gig-Workers
+description: Understand the legal stature of Gig Workers and Gig Economy and how its expected to change
 layout: ../../layouts/MainLayout.astro
 ---
 
-This is a fully-featured page, written in Markdown!
+Gig is a slang term meaning a job for a specified period of time and it refer to the workers outside of the traditional employer-employee relationship including freelancers, workers who are employed on a contractual basis with their employers, project based work and short-term work
 
-## Section A
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+### Concept of Gig-Economy
 
-## Section B
+Gig economy is a free market system in which  Freelancers, independent contractors, project based workers and temporary hires  are hired for temporary positions. This can be found across every industry. Gig employees could be writers, cab drivers, photographers, food delivery personmel, e-commerce delivery personnel, service provider, accountants, tutor, artists. 
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+Simply put it is  anyone who enters into formal agreements with a company to provide services without being on the company’s payroll. Digitalization of the economy allows workforce to be mobile, so people can select temporary jobs from around the world, and employees can find the best individuals for each job without much constraints.
 
-## Section C
+The gig economy saves business resource such as employee benefits, office space & training while providing employees benefits such as improved work life balance & freedom to select gigs that they’re interested in. 
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+Despite such flexibility gig workers get modest pay, no health or retirement benefits and social security in any form. There is a blurred line between those who voluntarily work as contractors & those who are being taken advantage of by an employer that might classify someone as a contractor to get out of paying fair wages & benefits.
 
-# Markdown example
+### Current Legal Position 
 
-This is a fully-featured page, written in Markdown!
+Currently, Indian labor & employment laws recognized three main categories of employees: 
+*Government employees, 
+* Employees in public sector undertakings (PSUs)
+* Private sector employees who may be managerial staff or workmen. 
 
-## Section A
+All these employees are ensured certain working conditions, such as  minimum wages under the Minimum Wages Act of 1948, a set of number of hours of work, compensation for termination, social security and other benefits.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Currently the gig workers lack the ‘employee’ status under Indian Law, thereby resulting in several restrictions, such as an inability to form unions to represent their interests, exploitative contacts. 
 
-## Section B
+The only thread holding them in place currently is high earning potential that most of the informal workers get against a employment contract role. However, with changing economics it is expected that the pay will undergo restructuring that will cause changes in the entire ecosystem. 
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+### Way Ahead
+
+In 2019, The Parliament of India introduced a new code of social security fund where gig and platform workers have been officially recognized as a form of employment. The code now specifies that these employees will also enjoy the Employment benefits.
+
+The gig workers are now expected to get protection under the new code such as minimum wages, maternity benefits, EPF funds, insurance benefits provided by state run employee’s states insurance corporation etc.
+
+It mandates the registration of both gig workers and platform workers on the government specified online portal. The conditions for registration are:
+
+* Worker should complete sixteen years of age but has not attained the age of sixty years
+
+* The worker has worked for not less than ninety days during the preceding twelve years
+
+* The worker must submit a self-declaration electronically or otherwise in a specific format and manner containing all the relevant information as prescribed by the Central Government
+
+* Every eligible unorganized worker, gig worker or platform worker shall make an application for registration in the specified form along with relevant documents including Aadhaar number
+
+The changes are expected to increase the total cost for Companies engaging Gig workers while also reducing some of the flexibility benefits it offered them to scale up or down as needed. However, one key thing to keep in mind is that Social Security is one key benefit that is expected to be rolled out.
+
+Companies will need to keep in mind same. Companies will need to evaluate clearly the costs of engaging Gig-workers and Contract Employees before deciding on way forward. 

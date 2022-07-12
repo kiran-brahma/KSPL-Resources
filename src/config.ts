@@ -46,10 +46,11 @@ export const SIDEBAR = {
 
 		{ text: 'People Managagement', header: true },
 		{ text: 'Employee', link: 'docs/Employee' },
-		{ text: 'Contractor', link: 'docs/Contractor' },
+		{ text: 'Principal Employer', link: 'docs/PrincipalEmployer' },
+		{ text: 'Contractual Employee', link: 'docs/Contractor' },
 		{ text: 'Gig Worker', link: 'docs/Gig-Worker' },
 		{ text: 'Fixed Term Employment', link: 'docs/Fixed-Term' },
-		{ text: 'Short Tern Enmployment', link: 'docs/Short-Term' },
+		{ text: 'Short Term Enmployment', link: 'docs/Short-Term' },
 
 		{ text: 'Payroll', header: true },
 		{ text: 'Introduction', link: 'docs/Payroll' },

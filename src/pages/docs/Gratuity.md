@@ -1,37 +1,23 @@
 ---
-title: Page 4
-description: Lorem ipsum dolor sit amet - 4
+title: Gratuity
+description: Understand about Gratuity Payment to Employees
 layout: ../../layouts/MainLayout.astro
 ---
 
-This is a fully-featured page, written in Markdown!
+Gratuity is a financial component offered by an employer to an employee in recognition of his/her service rendered to an organisation. It is a part of the salary an employee receives and can be viewed as a benefit plan designed to aid an individual in his/her retirement.
 
-## Section A
+### Eligibility
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
+Only after completion of service of five years, an employee can receive the gratuity amount. For calculation purposes, if an employee completes more than 240 days in the 4th year, he is eligible for Gratuity.
 
-## Section B
+Initially only permanent employees were officially eligible for Gratuity payment, however the Union government modified the Industrial Employment (Standing Orders) Central (Amendment) Rules. The rules now say all such workers would be “eligible for all statutory benefits available to a permanent workman proportionately according to the period of service rendered by him, even if his period of employment does not extend to the qualifying period of employment required in the statute”
 
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
+### Calculation
 
-## Section C
+**Gratuity Payment-** 4.9% of (Basic+DA) 
 
-```markdown
----
-title: Markdown Page!
-lang: en
-layout: ~/layouts/MainLayout.astro
----
+This amount is due for payment to the personnel on resignation or termination of employment.
 
-# Markdown example
+In case an employee has been terminated due to fradualent activities or breach of the employee agreement, in such cases, he/she is not eligble for gratuity payment after termination
 
-This is a fully-featured page, written in Markdown!
-
-## Section A
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _suscipit_, posuere ante id, vulputate urna. Pellentesque molestie aliquam dui sagittis aliquet. Sed sed felis convallis, lacinia lorem sit amet, fermentum ex. Etiam hendrerit mauris at elementum egestas. Vivamus id gravida ante. Praesent consectetur fermentum turpis, quis blandit tortor feugiat in. Aliquam erat volutpat. In elementum purus et tristique ornare. Suspendisse sollicitudin dignissim est a ultrices. Pellentesque sed ipsum finibus, condimentum metus eget, sagittis elit. Sed id lorem justo. Vivamus in sem ac mi molestie ornare.
-
-## Section B
-
-Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
-```
+You can read further about the act from [here](https://firebasestorage.googleapis.com/v0/b/firebase-greythr-website.appspot.com/o/flamelink%2Fmedia%2Fpublic%2F9a%2Fd1%2F9ad1c33d-ef04-4cbc-bd4b-e9af490e63c1%2Fthepaymentofgratuityrules.pdf?alt=media)
