@@ -44,7 +44,7 @@ export const SIDEBAR = {
 		{ text: 'Labor Welfare Fund', link: 'docs/LWF' },
 		{ text: 'Professional Tax', link: 'docs/PT' },
 
-		{ text: 'People Managagement', header: true },
+		{ text: 'Employment Contracts', header: true },
 		{ text: 'Employee', link: 'docs/Employee' },
 		{ text: 'Principal Employer', link: 'docs/PrincipalEmployer' },
 		{ text: 'Contractual Employee', link: 'docs/Contractor' },

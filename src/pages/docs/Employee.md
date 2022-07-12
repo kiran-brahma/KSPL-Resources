@@ -1,5 +1,5 @@
 ---
-title: Employee and Workder Definition  
+title: Employee and Worker Definition  
 description: Understand the exact legal definition of an employee and a Workder
 layout: ../../layouts/MainLayout.astro
 ---

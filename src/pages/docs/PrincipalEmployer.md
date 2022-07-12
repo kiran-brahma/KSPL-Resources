@@ -1,12 +1,14 @@
 ---
-title: Contractual Labor
-description: Understanding the Legal Definnition of a Contractual Labour
+title: Principal Employer
+description: Understanding the role and duties of a Principal Employer 
 layout: ../../layouts/MainLayout.astro
 ---
 
 A Principal Employer is someone who controls the establishment or company. The principal employer doesn’t directly employ the worker and there is no direct relationship of the Principal Employer with the workers’ employment. It is the contractor who hires the worker and is responsible for conditions of employment.
 
-### Legal Definition 
+### Definition 
+
+Principal Employer is the primary organisation for whom the employee carries out the duties assigned to him/her. 
 
 * A Factory: It is the owner or occupier or manager of the factory
 * A Mine: It is the owner or the manager of that mine
