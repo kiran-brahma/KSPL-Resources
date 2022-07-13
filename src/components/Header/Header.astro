@@ -18,9 +18,12 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 			<SidebarToggle client:idle />
 		</div>
 		<div class="logo flex">
-			<a href="/">
-				<AstroLogo size={40} />
+				<AstroLogo size={30} />\
+				<a href="https://www.knighthood.co/">Knighthood</a>
+				<a href="/"> Docs</a>
 				<h1>{CONFIG.SITE.title ?? "Documentation"}</h1>
+				
+			
 			</a>
 		</div>
 		<div style="flex-grow: 1;"></div>
@@ -137,4 +140,6 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 			max-width: 400px;
 		}
 	}
+	
 </style>
+
