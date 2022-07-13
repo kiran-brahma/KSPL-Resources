@@ -12,19 +12,19 @@ It is prohibited by  employers to pay workers less than the minimum wages. Minim
 
 *Source: §3-5, 18-22, 27 & 28 of the Minimum Wages Act 1948*
 
-### Fixation and Revision of Minimum Wages ###
+## Fixation and Revision of Minimum Wages
 
 Under the Minimum Wages Act, 1948, both Central and State government have dominion over fixing the wages. The State governments fix their own scheduled employments and further release the rates of Minimum Wage along with the VDA (Variable Dearness Allowance). Wage boards are set up to review and fix minimum wages at specified intervals. The wage rates in scheduled employments differ across states, sectors, skills, regions and occupations owing to a lot of differentiating factors. Hence, there is no single uniform minimum wage rate across the country and the revision cycle differs for each state.
 
-### Scope and Applicability ###
+## Scope and Applicability ###
 
 Minimum Wages Act was enforced to ensure the employers did not exploit employees with insufficient wages. The Act is applicable on all establishments, factories, place of business and industry types. Unscheduled industries are generally excluded, though a state can add a minimum wage for an occupation or specify it for a sector during a revision cycle.
 
-### Consequences of Non-Compliance ###
+## Consequences of Non-Compliance ###
 
 Under-payment and non-payment of Minimum Wage is deemed as an offence under the Central Act. The penalty may range from upto 5 years imprisonment and a fine of Rs. 10000/- (under Section 22 of the Act).
 
-### Current State Wages ###
+## Current State Wages ###
 
 You can refer to the below table to get an understanding of current State Wages across different roles. Please bear in mind that state wages are updated frequently so do check as below table is for reference.
 

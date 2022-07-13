@@ -1,26 +1,15 @@
 ---
-title: Introduction
-description: Docs intro
+title: Payroll Process
+description: Understand how a Payroll is processed
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Knighthood Resource Area**
+Once all data is gathered, you need to proceed ahead with the Payroll process, which consists of certain steps
 
-This contains all the relevant information relatiom to employment rules, facility management, workforce management, warehouse management and payroll management. This contains basic information that is needed for business managers. We have special focus for new business and Small/Medium Business owners as they face unique challanges. We share our experiences that learnt as we have assisted numerous companies in these matters. 
+### Payroll Calculation
 
-We will share information on the following topics
+During the payroll setup stage, various activities were undertkaen that provides with all info needed to run the Payroll.
 
-- ✅ **Employee Compliances**
-- ✅ **Workforce Management**
-- ✅ **Workforce Hiring**
-- ✅ **Flexible Workforce**
-- ✅ **Warehouse Management**
-- ✅ **Facility Management**
-- ✅ **Payroll Management**
-- ✅ **Useful Information**
+Once the data is verified, you input the data into either a Payroll System or Excel sheet to estimate the final salary payable. Ensure that Statutory Deductions and TDS are accounted for in this stage to avoid any surprise at later Stage
 
-This area will be updated regulary from our end
-
-## Getting Started
-
-All Segments along with topics of discussions can be viewed from  
+You can understand about all the deductions by referring to the respective sections in this documentation

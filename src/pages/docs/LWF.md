@@ -6,11 +6,11 @@ layout: ../../layouts/MainLayout.astro
 
 Labour welfare fund is a statutory contribution managed by individual state authorities. The state labour welfare board determines the amount and frequency of the contribution. The contribution and periodicity of remittance differs with every state. 
 
-### Applicability 
+## Applicability 
 
 The government has introduced the Labour Welfare Fund Act. This act has been implemented only in 16 states out of 37 states including union territories.
 
-### Benefits 
+## Benefits 
 
 The Labour Welfare Fund (LWF) is managed by the Labour Board which provides a number of welfare schemes for workers. The schemes provide support in three broad areas as follows.
 
@@ -29,7 +29,7 @@ The amount of fund, rate, and periodicity of contribution is decided by the resp
 
 Currently, this Act is enacted and applicable in the States of Andhra Pradesh, Chandigarh, Chhattisgarh, Delhi, Goa, Gujarat, Haryana, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Odisha, Punjab, Tamil Nadu, Telangana & West Bengal.
 
-### Charges
+## Charges
 
 Charges and payment frequency Applicable across state vary based on local regulation. You can see the details in the below table
 

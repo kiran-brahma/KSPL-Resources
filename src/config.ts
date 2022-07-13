@@ -32,7 +32,7 @@ export const KNOWN_LANGUAGES = {
 export const SIDEBAR = {
 	en: [
 	
-		{text: 'Our Guide for Employee Compliance and Payroll', header: true},
+		{text: 'Guide for Employee Compliance and Payroll', header: true},
 
 		{ text: '', header: true },
 		{ text: 'Employee Compliances', header: true },
@@ -54,13 +54,13 @@ export const SIDEBAR = {
 		{ text: 'Short Term Enmployment', link: 'docs/Short-Term' },
 
 		{ text: 'Payroll', header: true },
-		{ text: 'Introduction', link: 'docs/Payroll' },
-		{ text: 'Salary Structure', link: 'docs/Salary-Structure' },
+		{ text: 'What is Payroll', link: 'docs/Payroll' },
+	{ text: 'Salary Structure', link: 'docs/CTC' },
 		{ text: 'Additional Info', link: 'docs/Payroll-Info' },
 		{ text: 'Pre-Payroll Activities', link: 'docs/Pre-Payroll' },
 		{ text: 'Payroll Activities', link: 'docs/Payroll-Process' },
 		{ text: 'Post Payroll Activities', link: 'docs/Post-Payroll' },
-		{ text: 'Leaves, Attendance and LOP', link: 'docs/Leaves' },
+		{ text: 'Leaves, Attendance and LOP', link: 'docs/Leave' },
 
 		{ text: 'Income Tax', header: true },
 		{ text: 'TDS', link: 'docs/TDS' },

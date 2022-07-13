@@ -8,30 +8,41 @@ When an employee is hired for a defined time under a contract, it is called Fixe
 
 The labour laws of the nation govern these contracts to ensure that employer doesn't follow unjust practices such as non-payment of wages, unjust dismissal, etc. Employer has an option to convert it into a permanent contractor terminate employment by giving a notice along with a valid reason.
 
-### Benefits
+## Benefits
 
-#### Employer
+### Employer
 
 * Hire specialized candidate with expertise for a particular project or duration
+
 * Increase labour when there is a high demand for manpower and evaluating them prior to hiring them as a permanent employment
+
 * Employers have abilty to define their own rules for Maternity and Paternity leaves
+
 * Higher commitment from the employees 
 
-#### Employees
+### Employees
 * Enjoy same rights, benefits and entitlements as Permanent employees of the organisation
+
 * Higher Pay than Permanent employees in certain cases
+
 * Possibility to become permanent employee based on performance and market situation
 
-### Typical Contract Terms
+## Typical Contract Terms
 
 The terms that need to be included are:
 
 * Employer, address and work Location
+
 * Employee designtion, Job Descrption and Start of Employment
+
 * Salary Structure, Benefits, Social Security entitlements, payment frequency and method for wage calculation
+
 * Work hours and Leave Policy 
+
 * Code of Conduct and Discplinary Action 
+
 * Probation Terms and performance evaluation matrix
+
 * Termination and Contract Closure terms
 
 ### Contract Closure

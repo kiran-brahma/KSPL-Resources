@@ -6,13 +6,13 @@ layout: ../../layouts/MainLayout.astro
 
 Gratuity is a financial component offered by an employer to an employee in recognition of his/her service rendered to an organisation. It is a part of the salary an employee receives and can be viewed as a benefit plan designed to aid an individual in his/her retirement.
 
-### Eligibility
+## Eligibility
 
 Only after completion of service of five years, an employee can receive the gratuity amount. For calculation purposes, if an employee completes more than 240 days in the 4th year, he is eligible for Gratuity.
 
 Initially only permanent employees were officially eligible for Gratuity payment, however the Union government modified the Industrial Employment (Standing Orders) Central (Amendment) Rules. The rules now say all such workers would be “eligible for all statutory benefits available to a permanent workman proportionately according to the period of service rendered by him, even if his period of employment does not extend to the qualifying period of employment required in the statute”
 
-### Calculation
+## Calculation
 
 **Gratuity Payment-** 4.9% of (Basic+DA) 
 

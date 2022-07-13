@@ -1,5 +1,5 @@
 ---
-title: Employee and Worker Definition  
+title: Employee and Worker
 description: Understand the exact legal definition of an employee and a Workder
 layout: ../../layouts/MainLayout.astro
 ---
@@ -10,7 +10,8 @@ It is important to understand these definitions and changes they bring in as it 
 
 The legal status of employees and workers respectively, as defined under the OSHWC Code, 2020 are different and thus their entitlement to benefits and the laws applicable to them differ.
 
-### Employee
+## Who is an Employee
+
 
 Section-2(t) of the OSHWC Code, 2020 defines employee in respect of establishments as:
 
@@ -20,17 +21,21 @@ Section-2(t) of the OSHWC Code, 2020 defines employee in respect of establishmen
 
 However, members of the armed forces of the Union are excluded from the purview of the term employee. The provison in the definition of employee is in the form of a non-obstante clause and it explains who may be considered persons ‘employed’ in a mine
 
-### Worker
+## Who is a Worker
 
 Section-2(zzl) defines a worker as any person employed in any establishment to do any manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward, whether the terms of employment be express or implied, and includes working journalists as well as sales promotion employees. 
 
 The following personnel are excluded from the above definiton
 
-* Those who are subject to the Air Force Act, 1950 or the Army Act, 1950 or the Navy Act, 1957; or
-* Those are employed in the police service or as officer or other employee of a prison; or
-* Those who are employed in managerial or administrative capacity
-* Those who are employed in supervisory roles drawing wages exceeding eighteen thousand rupees (Rs. 18,000/-) per month or an amount as may be notified by the Central Government from time to time
+* Those who are subject to the Air Force Act, 1950 or the Army Act, 1950 or the Navy Act, 1957
 
-### Conclusion
+* Those are employed in the police service or as officer or other employee of a prison
+
+* Those who are employed in managerial or administrative capacity
+
+* Those who are employed in supervisory roles drawing wages exceeding eighteen thousand rupees (Rs. 18,000/-) 
+per month or an amount as may be notified by the Central Government from time to time
+
+## Conclusion
 
 It is clear that the definition of employee is wider and seeks to cover a larger group of individuals than that of worker. Whereas the definition of worker is confined to those individuals working in factories and industries by and large. 

@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 
 A Principal Employer is someone who controls the establishment or company. The principal employer doesn’t directly employ the worker and there is no direct relationship of the Principal Employer with the workers’ employment. It is the contractor who hires the worker and is responsible for conditions of employment.
 
-### Definition 
+### Who is a Principal Employer 
 
 Principal Employer is the primary organisation for whom the employee carries out the duties assigned to him/her. 
 
@@ -26,7 +26,7 @@ In a situation where either of these two conditions is not satisfied, the workma
 
 Principal Employer becomes liable for payment of any unpaid wages or Statutory Compliance in case the Contractor doesn't pay the same or was not included in the wage proposal submitted by contractor. In cases, where the unpaid amount was paid by principal employer to the contractor, the same can be deducted from his payment to contractors else it will be a cost borne by the principal employer. The contractor is also duty-bound to pay bonuses to the contractual workers and Principal Employer has to ensure that same is paid from his end to the contractor to ensure compliance
 
-##### Essential facilities
+### Essential facilities to be Provided by Principal Employer
 
 It is the responsibility of the principal employer to ensure that establishment has a general policy on health and safety for the workers. 
 

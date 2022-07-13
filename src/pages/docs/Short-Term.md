@@ -10,8 +10,10 @@ Short Term Employment Contract are another form of Fixed Term Employent Contract
 
 These contracts enjoy same benefits as described in [Fixed Term](/docs/Fixed-Term) Contracts
 
-One key difference is due to short period of employment, Employers can avoid conversion of Fixed Term Employees to Permanent Employees. Secondly, the employer can terminate employment without much hassles as the Contract needs to specify Project and time, so once either ends or employee fails evaluation, it can be ended with a week's notice
+One key difference is due to short period of employment, Employers can avoid conversion of Fixed Term Employees to Permanent Employees. 
 
-Employees generally charge higher premium compared to Fixed Term Contracts so for those whose skill sets are in high demand, they can work on short stints while being able to adjust their pay as per current market demand
+Secondly, the employer can terminate employment without much hassles as the Contract needs to specify Project and time, so once either ends or employee fails evaluation, it can be ended with a week's notice
+
+Employees generally charge higher premium compared to Fixed Term Contracts, so for those whose skill sets are in high demand, they can work on short stints while being able to adjust their pay as per current market demand.
 
 Most other terms remains same as in [Fixed Term](/docs/Fixed-Term) Contracts

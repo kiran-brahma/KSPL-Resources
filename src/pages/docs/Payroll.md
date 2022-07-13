@@ -1,26 +1,36 @@
 ---
-title: Introduction
-description: Docs intro
+title: What is Payroll
+description: Understand Payroll and it's main functions
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Knighthood Resource Area**
+**Salary payment to all employees by the company is known as payroll.**
 
-This contains all the relevant information relatiom to employment rules, facility management, workforce management, warehouse management and payroll management. This contains basic information that is needed for business managers. We have special focus for new business and Small/Medium Business owners as they face unique challanges. We share our experiences that learnt as we have assisted numerous companies in these matters. 
+## Functions
 
-We will share information on the following topics
+* Develop organization policies such as Wage policy, Leave Encashment policy, Flexible benefits and any other allowances
 
-- ✅ **Employee Compliances**
-- ✅ **Workforce Management**
-- ✅ **Workforce Hiring**
-- ✅ **Flexible Workforce**
-- ✅ **Warehouse Management**
-- ✅ **Facility Management**
-- ✅ **Payroll Management**
-- ✅ **Useful Information**
+* Define basic salary structure in an Employee Payslip (Basic, variable pay, LTA, HRA and allowances if any)
 
-This area will be updated regulary from our end
+* Gross Salary calculation and statutory as well as non-statutory deductions to arrive at net pay
 
-## Getting Started
+* Salary Payment 
 
-All Segments along with topics of discussions can be viewed from  
+* Deposit dues such as TDS, PF, etc. with appropriate authorities and filing their corresponding returns
+
+
+
+## Calculation
+
+The payroll process calculates what is due to the employees, defined as 'net pay' arrived after accounting for taxes and other deductions for the employee
+
+Net Pay is calculated as
+
+> **Net Pay = Gross Salary- Deductions**
+
+**Gross Salary = All types of regular income + allowances + any one-time payment or benefit.**
+
+**Deductions = All types of regular deductions + statutory deductions + any one-time deductions.**
+
+
+There are multiple Segments and activities involved while preparing a payroll and they are discussed in following topics

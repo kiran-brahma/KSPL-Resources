@@ -1,26 +1,50 @@
 ---
-title: Introduction
-description: Docs intro
+title: Payroll Setup
+description: Understand the Process to be followed before Payroll
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Knighthood Resource Area**
+As an employer, you need to establish certain key policies before Payroll can be run. 
 
-This contains all the relevant information relatiom to employment rules, facility management, workforce management, warehouse management and payroll management. This contains basic information that is needed for business managers. We have special focus for new business and Small/Medium Business owners as they face unique challanges. We share our experiences that learnt as we have assisted numerous companies in these matters. 
+### Define Payroll Policy
 
-We will share information on the following topics
+It is the first step where you need to set the policies in place to process the payroll. 
 
-- ✅ **Employee Compliances**
-- ✅ **Workforce Management**
-- ✅ **Workforce Hiring**
-- ✅ **Flexible Workforce**
-- ✅ **Warehouse Management**
-- ✅ **Facility Management**
-- ✅ **Payroll Management**
-- ✅ **Useful Information**
+The policies include:
 
-This area will be updated regulary from our end
+ * *Attendance policy* 
 
-## Getting Started
+ * *Pay policy*
 
-All Segments along with topics of discussions can be viewed from  
+ * *Leave and benefits policy*
+
+ * *Monthly Pay Cycle*
+
+ 
+To ensure smooth operations of Payroll, an organization needs to set a payroll policy and procedures to ensure all payment are made on time.
+
+## Data Collection
+
+In the next step you need to gather inputs from various departments to ensure accurate calculation of payroll. This can be a simple or a overwhelming process depending on your employee strenth. You will need to adopt a Payroll Service to ensure that this is handled with ease
+
+| **SOURCE**           | **DATA**                                                                                        |
+|----------------------|--------------------------------------------------------------------------------------------------|
+| EMPLOYEES            | PERSONAL DETAILS, BANKING DETAILS, INCOME TAX DECLARATION, BENEFITS AVAILED                      |
+| HR                   | SALARY STRUCTURE, BENEFITS ELIGIBILITY                                                           |
+| FINANCE              | REIMBURSEMENT OF EXPENSES AND DEDUCTIONS IF ANY                                                  |
+| LEAVE AND ATTENDANCE | LEAVE AND ATTENDANCE DATA OF EMPLOYEE                                                            |
+| SERVICE PROVIDER     | DEDUCTION IF ANY FROM SERVICE PROVIDER FOR SERVICES RENDERED TO EMPLOYEE AND APPROVED BY COMPANY |
+
+### Input validation
+
+After all, information is gathered, then you need to verify its validity to ensure no errors creep into the payroll process
+
+Basic Checks Include:
+
+    * *Ensure that the list contains all the active employees and no records of inactive employees*
+
+    * *Data adheres to the company policy*
+
+    * *Validate if all data has been collected* 
+
+    * *Data is in the correct format*

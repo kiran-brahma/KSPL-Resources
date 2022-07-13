@@ -7,7 +7,7 @@ layout: ../../layouts/MainLayout.astro
 Gig is a slang term meaning a job for a specified period of time and it refer to the workers outside of the traditional employer-employee relationship including freelancers, workers who are employed on a contractual basis with their employers, project based work and short-term work
 
 
-### Concept of Gig-Economy
+## Concept of Gig-Economy
 
 Gig economy is a free market system in which  Freelancers, independent contractors, project based workers and temporary hires  are hired for temporary positions. This can be found across every industry. Gig employees could be writers, cab drivers, photographers, food delivery personmel, e-commerce delivery personnel, service provider, accountants, tutor, artists. 
 
@@ -17,12 +17,13 @@ The gig economy saves business resource such as employee benefits, office space 
 
 Despite such flexibility gig workers get modest pay, no health or retirement benefits and social security in any form. There is a blurred line between those who voluntarily work as contractors & those who are being taken advantage of by an employer that might classify someone as a contractor to get out of paying fair wages & benefits.
 
-### Current Legal Position 
+## Current Legal Position 
 
 Currently, Indian labor & employment laws recognized three main categories of employees: 
-*Government employees, 
+
+* Government employees 
 * Employees in public sector undertakings (PSUs)
-* Private sector employees who may be managerial staff or workmen. 
+* Private sector employees who may be managerial staff or workmen or Contractual workforce
 
 All these employees are ensured certain working conditions, such as  minimum wages under the Minimum Wages Act of 1948, a set of number of hours of work, compensation for termination, social security and other benefits.
 
@@ -30,7 +31,7 @@ Currently the gig workers lack the ‘employee’ status under Indian Law, there
 
 The only thread holding them in place currently is high earning potential that most of the informal workers get against a employment contract role. However, with changing economics it is expected that the pay will undergo restructuring that will cause changes in the entire ecosystem. 
 
-### Way Ahead
+## Way Ahead
 
 In 2019, The Parliament of India introduced a new code of social security fund where gig and platform workers have been officially recognized as a form of employment. The code now specifies that these employees will also enjoy the Employment benefits.
 
@@ -46,6 +47,6 @@ It mandates the registration of both gig workers and platform workers on the gov
 
 * Every eligible unorganized worker, gig worker or platform worker shall make an application for registration in the specified form along with relevant documents including Aadhaar number
 
-The changes are expected to increase the total cost for Companies engaging Gig workers while also reducing some of the flexibility benefits it offered them to scale up or down as needed. However, one key thing to keep in mind is that Social Security is one key benefit that is expected to be rolled out.
+The changes are expected to increase the total cost for Companies when engaging Gig workers while also reducing some of the flexibility benefits such as ability to scale up or down as needed. However, one key thing to keep in mind is that Social Security is one key benefit that is expected to be rolled out for all Gig-Workers in India.
 
-Companies will need to keep in mind same. Companies will need to evaluate clearly the costs of engaging Gig-workers and Contract Employees before deciding on way forward. 
+Companies will need to evaluate clearly the benefits and costs of engaging Gig-workers and Contract Employees before deciding on employment model for future projects.

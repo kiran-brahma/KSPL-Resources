@@ -11,7 +11,7 @@ ESI offers various cash and medical benefits to industrial employees  and worker
 
 ESI is one of the vital payroll compliances that an organisation must fulfil in India.
 
-### Eligibility
+## Eligibility
 
 The Employee State Insurance scheme applies to,
 
@@ -35,7 +35,7 @@ The following components of the salary will be considered for ESI calculations w
 
 The Supreme Court has passed an order (dated 8 March 2021) stating that conveyance allowance or travel allowance does not fall under the definition of ESI wages. When calculating wages for ESI, conveyance allowance is not considered
 
-### Key Features and Benefits of ESI
+## Key Features and Benefits of ESI
 
 The key benefits include
 
@@ -46,12 +46,16 @@ The key benefits include
 * Unemployment Allowance
 * Dependent's Benefit
 
-### ESI Contribution Rates
+## ESI Contribution Rates
 
-- **Contribution by an employer -** 3.25% of the eligible salary of the employee
-- **Contribution by an employee  -** 0.75% of the eligible salary of the employee
+### Contribution by an employer 
 
-### Due Dates for The ESI Payment and Return Filing
+3.25% of the eligible salary of the employee
+
+### Contribution by an employee  
+ 0.75% of the eligible salary of the employee
+
+## Due Dates for The ESI Payment and Return Filing
 
 Every month, the employer shall pay their contributions and the employee's contribution to the ESIC. The due date for ESI filing contribution is the 15th of the following month.
 
