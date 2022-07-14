@@ -55,26 +55,28 @@ export const SIDEBAR = {
 
 		{ text: 'Payroll', header: true },
 		{ text: 'What is Payroll', link: 'docs/Payroll' },
-	{ text: 'Salary Structure', link: 'docs/CTC' },
+		{ text: 'Salary Structure', link: 'docs/CTC' },
 		{ text: 'Additional Info', link: 'docs/Payroll-Info' },
 		{ text: 'Pre-Payroll Activities', link: 'docs/Pre-Payroll' },
 		{ text: 'Payroll Activities', link: 'docs/Payroll-Process' },
 		{ text: 'Post Payroll Activities', link: 'docs/Post-Payroll' },
 		{ text: 'Leaves, Attendance and LOP', link: 'docs/Leave' },
 
-		{ text: 'Income Tax', header: true },
-		{ text: 'TDS', link: 'docs/TDS' },
-		{ text: 'Tax Regime', link: 'docs/Regime' },
-		{ text: 'Deductions', link: 'docs/Deduction' },
-		{ text: 'Flexible Benefits', link: 'docs/Benefits' },
-		{ text: 'Salary Optimisation', link: 'docs/Salary' },
-		{ text: 'Form 16', link: 'docs/Form16' },
+
+		// { text: 'Income Tax', header: true },
+		// { text: 'TDS', link: 'docs/TDS' },
+		// { text: 'Tax Regime', link: 'docs/Regime' },
+		//{ text: 'Deductions', link: 'docs/Deduction' },
+		// { text: 'Flexible Benefits', link: 'docs/Benefits' },
+		//{ text: 'Salary Optimisation', link: 'docs/Salary' },
+		// { text: 'Form 16', link: 'docs/Form16' },
 		
-		{ text: 'Warehouse', header: true },
-		{ text: 'Infrastructure', link: 'docs/Warehouse-Infra' },
-		{ text: 'Daily Operations', link: 'docs/warehouse-Ops' },
-		{ text: 'Hiring', link: 'docs/Warehouse-People' },
-		{ text: 'Cost Management', link: 'docs/Warehouse-Cost' },
+		// { text: 'Warehouse', header: true },
+		// { text: 'Infrastructure', link: 'docs/Warehouse-Infra' },
+		// { text: 'Daily Operations', link: 'docs/warehouse-Ops' },
+		// { text: 'Hiring', link: 'docs/Warehouse-People' },
+		// { text: 'Cost Management', link: 'docs/Warehouse-Cost' },
+		
 
 	],
 };
